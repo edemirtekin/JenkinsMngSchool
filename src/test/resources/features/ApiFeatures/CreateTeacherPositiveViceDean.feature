@@ -1,4 +1,4 @@
-@api @smoke
+@api
 Feature: US13_TC01 vice dean ogretmen olusturabilmelidir.
   Scenario: kullanici  ogretmen olusturur
     Given kullanici api icin base url olusturur
